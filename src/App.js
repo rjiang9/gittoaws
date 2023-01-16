@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ray is test out Amplify Git deplop CPCI.
         </a>
       </header>
     </div>
